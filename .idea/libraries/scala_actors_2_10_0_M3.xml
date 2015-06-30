@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala-actors-2.10.0-M3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java Libraries/scala-actors/scala-actors-2.10.0-M3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
